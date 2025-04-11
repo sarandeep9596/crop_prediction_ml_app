@@ -28,6 +28,9 @@ python app.py
 ##  Screenshots
 ![Crop Prediction Screenshot](Screenshot.png)
 
+###  Live App
+[https://your-render-url.onrender.com](https://crop-prediction-ml-app.onrender.com)
+
 ##  Author
 
 Sarandeep Singh Sohil  
